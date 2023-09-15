@@ -3,7 +3,7 @@
 1.  **Clone the repository.**
 
 ```
-git clone git@bitbucket.org:bilbostack/202x-website.git
+git clone git@github.com:bilbostack/202x-website.git
 ```
     
 2.  **Start developing.**
