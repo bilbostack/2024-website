@@ -25,7 +25,7 @@ module.exports =
     },
     "home": {
         "title": "El programa de",
-        "description": "Por duodécimo año consecutivo (COVID mediante 😔), profesionales referentes en el sector tecnológico a nivel nacional e internacional vendrán a Bilbao a compartir sus conocimientos y experiencia en los temas más punteros.",
+        "description": "Por duodécimo año consecutivo, profesionales referentes en el sector tecnológico a nivel nacional e internacional vendrán a Bilbao a compartir sus conocimientos y experiencia en los temas más punteros.",
         "agenda_cta_text": "Ver la agenda"
     },
     "speakers": [
