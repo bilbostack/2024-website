@@ -19,7 +19,7 @@ module.exports =
     },
     "header_banner": {
         "cta_pre_text": "",
-        "cta_visible": false,
+        "cta_visible": true,
         "cta_text": "¡Compra tu entrada!",
         "cta_url": "https://bilbostack2024.eventbrite.es/"
     },
