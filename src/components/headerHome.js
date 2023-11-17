@@ -40,10 +40,10 @@ const HeaderHome = ({ data }) => {
               </span><br/>
             </h5>
           </div>
-          <div id="hashtag" class="hidden">
+          <div id="hashtag">
             <h5>
               <p>
-                ¿Quieres ver también la agenda de <span>#la_previa_de</span> <span>#bilbostack24</span>?&nbsp;
+                ¿Quieres asistir también, el viernes 26/01 por la tarde, a <span>#la_previa_de</span> <span>#bilbostack24</span>?&nbsp;
                 👉 <a href="http://previa-2024.bilbostack.com/" 
                   target="_blank" 
                   rel="noopener noreferrer">
