@@ -27,11 +27,11 @@ const HeaderHome = ({ data }) => {
             </a>
           </div>
           <br /><br />
-          <div id="dossier" class="hidden">
+          <div id="dossier">
             <h5>
               <span>
                 👉 Echa un ojo a nuestras&nbsp;
-                <a href="#" 
+                <a href="/sponsors/bilbostack-conference-sponsorship-2024_es.pdf"
                   target="_blank" 
                   role="button" 
                   rel="noopener noreferrer">
