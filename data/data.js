@@ -30,22 +30,174 @@ module.exports =
     },
     "speakers": [
         {
-            "visible": false,
-            "slug": "senyor-lobo",
-            "company": "Director",
-            "image": "/speakers/senyor-lobo.jpg",
-            "name": "Senyor Lobo",
-            "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "visible": true,
+            "slug": "alena-nikolaeva",
+            "company": "Product Designer @ GitHub",
+            "image": "/speakers/alena-nikolaeva.jpg",
+            "name": "Alena Nikolaeva",
+            "bio": "Ingeniera de Software y diseñadora de producto enfocada en experiencias inclusivas y accesibles en web y productos.  <br/>Alena trabaja como diseñadora de producto en GitHub Copilot, pero muchos años ha sido desarrolladora de front en startups y productos (ex Xata, Typeform, trivago, Hanzo studio, Next Limit). Trabajó en cosas de AI antes de que se volviera 'mainstream'. <br/>Le apasionan los sistemas de diseño, estándares, compartir ideas y conocimiento sobre patrones comunes de accesibilidad. En su tiempo libre escribe sobre software, accesibilidad (of course) y también dibuja.  <br/><br/>Ser miembro de la IAAP (Asociación Internacional de Profesionales de Accesibilidad) le ayuda a conectar con la gente del mundillo accesible y te invita a esta comunidad.",
             "social": {
-                "twitter": "https://twitter.com/yyy",
-                "linkedin": "https://www.linkedin.com/in/yyy",
-                "github": "https://github.com/yyy",
+                "twitter": "https://twitter.com/alenanik11",
+                "linkedin": "https://www.linkedin.com/in/alenanikolaeva/",
+                "github": "https://github.com/AlenaNik",
                 "gitlab": "",
-                "web": "https://yyy.yyy"
+                "web": "https://read.cv/alenanik"
             },
             "talk": {
-                "title": "yyy",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "adria-fontcuberta",
+            "company": "Software Engineer @ Stripe",
+            "image": "/speakers/adria-fontcuberta.jpg",
+            "name": "Adrià Fontcuberta",
+            "bio": "Front-end Software Engineer en Stripe, interesado en lean software development, software economics y en ir en bici. No en ese orden.",
+            "social": {
+                "twitter": "https://twitter.com/afontq",
+                "linkedin": "https://www.linkedin.com/in/adrifontcu",
+                "github": "",
+                "gitlab": "",
+                "web": "https://afontcu.dev"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "esther-borao",
+            "company": "Directora general @ ITAINNOVA",
+            "image": "/speakers/esther-borao.jpg",
+            "name": "Ester Borao",
+            "bio": "Esther Borao es ingeniera industrial especializada en automática en robótica. <br/>Su creatividad y pasión por la tecnología, la innovación y la educación la llevaron a ser una de los 30 jóvenes líderes de Europa y África y a ser seleccionada por la Embajada de EE.UU. en España para el programa “Women in Entrepreneurship”, donde convivió durante un mes en EE.UU. con 52 mujeres de distintos países del mundo. <br/>En 2017 pasó de ser científica en El Hormiguero a cofundadora de varias empresas como Innovart, un estudio de arte y tecnología, The Ifs, una familia de robots que enseña a programar a niñas y niños desde los 3 años y Academia de Inventores, una empresa creada en colaboración con la Editorial Edelvives, para enseñar a niñas y niños a inventar. <br/>Y desde septiembre de 2019 dirige el Instituto Tecnológico de Aragón, un centro tecnológico público del Gobierno de Aragón, donde acompañan a empresas en sus procesos y desarrollos de innovación tecnológica.",
+            "social": {
+                "twitter": "https://twitter.com/estherborao",
+                "linkedin": "https://www.linkedin.com/in/esther-borao/",
+                "github": "",
+                "gitlab": "",
+                "web": ""
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "isidro-lopez",
+            "company": "Senior Engineering Manager @ Clarity AI",
+            "image": "/speakers/isidro-lopez.jpg",
+            "name": "Isidro López",
+            "bio": "🍝 Pastafari y curioso impenitente.<br/><br/>Aunque en 23 años de profesión he pasado por diversos roles, sectores y tipos de empresas, actualmente me autodefiniría como “Product engineer/developer”: Lean Software Development y eXtreme Programming (moderno) me han influido muchísimo, me gusta tener una visión lo más amplia posible del “todo”, entender el porqué de las cosas, con cierta “obsesión” por la simplicidad, la maximización del aprendizaje compartido, la entrega de valor continua y sostenible, los ciclos de feedback rápidos y mucha empatía para con todas las personas involucradas 🙏<br/><br/>Y en otro orden de cosas me gusta aporrear mi piano, la filosofía budista, la psicología (científica) y ahora mismo probando el Pilates 😆",
+            "social": {
+                "twitter": "https://twitter.com/islomar",
+                "linkedin": "https://www.linkedin.com/in/islomar/",
+                "github": "https://github.com/islomar/",
+                "gitlab": "",
+                "web": "https://islomar.es/"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "gabs-garcia",
+            "company": "Secure Software Dev | Speaker | Coding & CyberSec Instructor",
+            "image": "/speakers/gabs-garcia.jpg",
+            "name": "Gabriela 'Gabs' García",
+            "bio": "Profesora universitaria en ciberseguridad y programación. <br/>Como desarrolladora de software, se especializa en desarrollo seguro, contribuyendo activamente a comunidades de hackers a nivel global. <br/>Como profesional independiente trabaja con una amplia variedad de clientes internacionales, proporcionando soluciones personalizadas de programación orientada a la  ciberseguridad. <br/>Su compromiso se centra en crear un entorno digital más seguro y accesible para todos.",
+            "social": {
+                "twitter": "https://twitter.com/constrainterror",
+                "linkedin": "https://www.linkedin.com/in/itsgabsgarcia/",
+                "github": "",
+                "gitlab": "",
+                "web": "https://many.bio/constrainterror"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "ujue-agudo",
+            "company": "Investigadora en Bikolabs, el laboratorio de intervención @ Biko",
+            "image": "/speakers/ujue-agudo.jpg",
+            "name": "Ujue Agudo",
+            "bio": "Investigadora en Bikolabs y postdoc en el Laboratorio de Psicología Experimental de Deusto. <br/>Licenciada en Publicidad y Relaciones Públicas, Master en Investigación en Psicología, y <br/>Doctora Cum Laude en Psicología con la tesis “La influencia de los algoritmos en las decisiones y juicios humanos”. <br/>Tras una trayectoria profesional como consultora en experiencia de usuario y docente universitaria, actualmente ejerce como investigadora en Bikolabs, realizando experimentos empíricos para comprender el impacto de la inteligencia artificial en el comportamiento y las decisiones de las personas. Además, es investigadora posdoctoral en el laboratorio de Psicología Experimental de la Universidad de Deusto.",
+            "social": {
+                "twitter": "https://twitter.com/ujue",
+                "linkedin": "https://www.linkedin.com/in/ujueagudo/",
+                "github": "",
+                "gitlab": "",
+                "web": ""
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "karlos-g-liberal",
+            "company": "Responsable de Bikolabs @ Biko",
+            "image": "/speakers/karlos-g-liberal.jpg",
+            "name": "Karlos g Liberal",
+            "bio": "Responsable de Bikolabs y artista generativo. <br/>Con más de 20 años trabajando en torno al desarrollo en Internet, parte de su trayectoria ha sido investigar y proponer soluciones tecnológicas en áreas específicas del desarrollo (como la gestión de contenidos, el desarrollo web o la consultoría tecnológica) y en áreas del i+d+i. <br/>Parte de su trayectoria la ha dedicado a explorar otros espacios más emergentes relacionados con las periferias creativas, donde se aúnan el arte generativo, la tecnología y el hactivismo. Como responsable de Bikolabs, investiga y explora la interacción entre personas y tecnología y una de sus áreas de trabajo directo es el estudio y la aplicación de la Inteligencia Artificial.",
+            "social": {
+                "twitter": "https://twitter.com/patxangas",
+                "linkedin": "https://www.linkedin.com/in/karlos-g-liberal-bb602315/",
+                "github": "",
+                "gitlab": "",
+                "web": ""
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "natalia-venditto",
+            "company": "Principal Program Manager leading e2e DXX @ Microsoft",
+            "image": "/speakers/natalia-venditto.jpg",
+            "name": "Natalia Venditto",
+            "bio": "Nacida en Uruguai, actualmente trabaja como Principal Program Manager en Microsoft, liderando la experiéncia de Javascript y Node.js en Azure (Dev Tools, DX).  <br/><br/>Lleva un tiempo en tecnología, también en los roles de Principal Solutions Architect para el tech stack de Adobe, Principal Frontend Engineer en Cognizant, Senior Solutions Architect en MongoDB, y consultora y desarrolladora fullstack. También es speaker a nivel internacional. <br/><br/>Actualmente está muy involucrada con iniciativas que integran patrones y herramientas API-First, y runtimes interoperables y portables, como “WASI enabled Wasm”.",
+            "social": {
+                "twitter": "https://twitter.com/anfibiacreativa",
+                "linkedin": "https://www.linkedin.com/in/anfibiacreativa/",
+                "github": "https://github.com/anfibiacreativa",
+                "gitlab": "",
+                "web": "https://microfrontend.dev/"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
+            }
+        },
+        {
+            "visible": true,
+            "slug": "mario-lopez",
+            "company": "Head of Data @ Freepik",
+            "image": "/speakers/mario-lopez.jpg",
+            "name": "Mario López Martínez",
+            "bio": "¡Holi! Soy Mario López, doctor teleco de formación pero ingeniero de software de convicción. Trabajo como Head of Data “asín” en Freepik , ex-Mercadona Tech, ex-Unlimiteck. Me presento mejor profesionalmente en el CV. <br/><br/>Me interesa mi curro: Working in Data, Engineering Management , 🦜 No matter how it looks at first, it's always a people problem...) <br/><br/>Pero ella es también poliédrica, y le interesan: 🏳️‍🌈 los hombres, y otros Human affairs, Writing is thinking, videojuegos no tragaperrescos, reality shows de competición de USA, y ponerse mazadísimo y me hice monitor de fisioculturismo para ver si lo podía aplicar conmigo (como hacen los psicólogos).",
+            "social": {
+                "twitter": "",
+                "linkedin": "https://www.linkedin.com/in/mariolopezmartinez/",
+                "github": "",
+                "gitlab": "",
+                "web": "https://brain.drmario.tech"
+            },
+            "talk": {
+                "title": "🚧 Coming soon",
+                "description": "🚧 Coming soon"
             }
         },
     ],
