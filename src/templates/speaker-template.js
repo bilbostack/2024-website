@@ -113,7 +113,7 @@ const SpeakerTemplate = context => {
 
               <div className="block">
                 <h4>Su charla</h4>
-                <h4>{speaker.talk.title}</h4>
+                <h5>{speaker.talk.title}</h5>
                 <p dangerouslySetInnerHTML={talkDescriptionWithHtml()}></p>
               </div>
             </div>
