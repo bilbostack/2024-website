@@ -44,8 +44,8 @@ module.exports =
                 "web": "https://read.cv/alenanik"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Qué hay nuevo en accesibilidad? WCAG 2.2 facilito. Pero de verdad.",
+                "description": "WCAG sigue evolucionando y desde la primera versión publicada en 1999 tenemos la actualización 🥳. <br/>Vamos a explorar las actualizaciones en las Pautas de Accesibilidad para el Contenido Web (WCAG) enfocándonos en la versión 2.2, publicada el 5 de octubre de 2023. Las incorporaciones y modificaciones que buscan mejorar la accesibilidad en la web, niveles A, AA, cuándo y cómo aplicarlos y todo lo bueno.<br/>Al final de esta charla, espero que tengas una comprensión más profunda de las actualizaciones en WCAG 2.2 y cómo estas contribuyen a hacer que la web sea más inclusiva y accesible para todos."
             }
         },
         {
@@ -63,8 +63,8 @@ module.exports =
                 "web": "https://afontcu.dev"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "El arte de desarrollar: ¿En qué pensamos cuando pensamos en software?",
+                "description": "¿De qué va realmente esto de hacer software? ¿Qué modelos mentales nos permiten hacerlo de forma sostenible? Pues no tengo ni idea, pero hablemos sobre ello un rato."
             }
         },
         {
@@ -82,8 +82,8 @@ module.exports =
                 "web": ""
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Innovando desde la Administración, ¿desierto o Disneyland?",
+                "description": "Toda mi vida he estado rodeada de creatividad e innovación. Desde hacer inventos en el programa de TV El Hormiguero hasta enseñar a niñas y niños a inventar en Academia de Inventores. Tras cuatro años como Directora en un centro tecnológico del Gobierno de Aragón en esta charla me gustaría contaros cómo es innovar desde allí y cómo los lugares puedes ser diferentes. A veces dependen de la mirada y siempre de las personas que te rodeas."
             }
         },
         {
@@ -101,8 +101,8 @@ module.exports =
                 "web": "https://islomar.es/"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Valor por encima de código: el poder del Despliegue Continuo",
+                "description": "¿Por qué y para qué desarrollamos software o tecnología en general? ¿Qué es realmente la “Integración Continua”? ¿Qué valor aporta la práctica del Despliegue Continuo? ¿En qué principios y prácticas sociotécnicas podemos apoyarnos para sacarle todo el jugo?<br/>Te invito a acompañarme en éstas y algunas otras reflexiones, a compartir humildemente mi experiencia “en el mundo real” sobre el Despliegue Continuo, con varios ejemplos reales y algunas propuestas sobre cómo abordarlo.<br/>Hablaré de por qué la simplicidad (en tecnología y negocio), trabajando en equipo, con pasos seguros extremadamente pequeños y feedback rápido marcan la diferencia. Olvídate del palabrerío técnico y centrémonos en cómo el desarrollo de software Lean y Extreme Programming pueden ser fantásticos aliados para conseguir lo que realmente importa: una entrega de valor continua y a un ritmo sostenible… ¡y disfrutando del proceso! Esta charla no es solo para programadoras: es para todas aquellas personas que deseen acercarse a “otras maneras de hacer las cosas” más allá del mainstream (sin ánimo de proselitismo sino únicamente de compartir experiencias 😉).<br/>¡Allí os espero! 😀"
             }
         },
         {
@@ -120,8 +120,8 @@ module.exports =
                 "web": "https://many.bio/constrainterror"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Backend de Acero: Forjando la Seguridad en tu Software",
+                "description": "Nos adentramos en el arte de construir y mantener backends robustos y seguros. Cubriremos temas esenciales como la autenticación sólida, la gestión de datos seguros, la prevención de ataques comunes y la implementación de prácticas de codificación seguras. Además, exploraremos las últimas tendencias y tecnologías en la seguridad del backend, proporcionando insights y estrategias para defenderse contra amenazas emergentes."
             }
         },
         {
@@ -139,8 +139,8 @@ module.exports =
                 "web": ""
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Cuando las decisiones humanas se cruzan con los sistemas automatizados",
+                "description": "La automatización de decisiones de todo tipo de calado (desde encontrar pareja hasta predecir la reincidencia de un preso) suele ampararse en el argumento de la eficiencia y la eficacia. Si los algoritmos van a decidir, mejor, ¿por qué no habríamos de dejarles?<br/>Además, siempre nos queda la carta de la supervisión humana: hoy en día no se plantea casi ningún sistema automatizado en el que el humano no tenga la palabra final. Pero, ¿cómo de fiable es esta salvaguarda? Desde Bikolabs trataremos de dar respuesta a estas preguntas, además de compartir nuestro último experimento en esta línea."
             }
         },
         {
@@ -158,8 +158,8 @@ module.exports =
                 "web": ""
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Cuando las decisiones humanas se cruzan con los sistemas automatizados",
+                "description": "La automatización de decisiones de todo tipo de calado (desde encontrar pareja hasta predecir la reincidencia de un preso) suele ampararse en el argumento de la eficiencia y la eficacia. Si los algoritmos van a decidir, mejor, ¿por qué no habríamos de dejarles?<br/>Además, siempre nos queda la carta de la supervisión humana: hoy en día no se plantea casi ningún sistema automatizado en el que el humano no tenga la palabra final. Pero, ¿cómo de fiable es esta salvaguarda? Desde Bikolabs trataremos de dar respuesta a estas preguntas, además de compartir nuestro último experimento en esta línea."
             }
         },
         {
@@ -177,8 +177,8 @@ module.exports =
                 "web": "https://microfrontend.dev/"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Concentremonos en el rendimiento del frontend...renderizando en el backend.",
+                "description": "En esta charla vamos a explorar las estrategias de render y cacheado de los frameworks modernos de frontend, aprenderemos lo que son los metaframeworks, cómo funciona el SSR o server side rendering y las ventajas por sobre el CSR y hablaremos también de tipos de los tipos de hidratación que permiten experiencias dinámicas de alto rendimiento, computando en las redes de distribución de distribución de contenido (CDN), todo para brindar una mejor experiencia de usuario, mientras que disfrutamos de nuestra experiencia de desarrollo!"
             }
         },
         {
@@ -196,8 +196,8 @@ module.exports =
                 "web": "https://brain.drmario.tech"
             },
             "talk": {
-                "title": "🚧 Coming soon",
-                "description": "🚧 Coming soon"
+                "title": "Ser data-driven no es de guapas",
+                "description": "A lo tonto llevo ya un lustro trabajando con datos, y una década de ingeniería de software y, chicas... trabajar en equipos de datos no es de guapas.<br/>Vengo a contar lo increíblemente complicado que es conseguir que una compañía sea data-driven y no cacazo-driven y, entre las miles de razones para ello, especialmente por algo que dice Esther Perel, terapeuta de parejas: \"Our cultural ideals are sometimes too impatient with our human insecurities\". Es decir, conseguir insights decentes con datos es una lucha sin cuartel contra nuestra naturaleza humana en múltiples dimensiones. Manolo, esto sí que es ser contranatura y no lo que ves que hago los sábados por la noche."
             }
         },
     ],
