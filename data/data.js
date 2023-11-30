@@ -178,7 +178,7 @@ module.exports =
             },
             "talk": {
                 "title": "Concentremonos en el rendimiento del frontend...renderizando en el backend.",
-                "description": "En esta charla vamos a explorar las estrategias de render y cacheado de los frameworks modernos de frontend, aprenderemos lo que son los metaframeworks, cómo funciona el SSR o server side rendering y las ventajas por sobre el CSR y hablaremos también de tipos de los tipos de hidratación que permiten experiencias dinámicas de alto rendimiento, computando en las redes de distribución de distribución de contenido (CDN), todo para brindar una mejor experiencia de usuario, mientras que disfrutamos de nuestra experiencia de desarrollo!"
+                "description": "En esta charla vamos a explorar las estrategias de render y cacheado de los frameworks modernos de frontend, aprenderemos lo que son los metaframeworks, cómo funciona el SSR o server side rendering y las ventajas por sobre el CSR y hablaremos también de tipos de los tipos de hidratación que permiten experiencias dinámicas de alto rendimiento, computando en las redes de distribución de contenido (CDN), todo para brindar una mejor experiencia de usuario, mientras que disfrutamos de nuestra experiencia de desarrollo!"
             }
         },
         {
