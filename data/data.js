@@ -89,7 +89,7 @@ module.exports =
         {
             "visible": true,
             "slug": "isidro-lopez",
-            "company": "Senior Engineering Manager @ Clarity AI",
+            "company": "Product developer & Product engineering coach",
             "image": "/speakers/isidro-lopez.jpg",
             "name": "Isidro López",
             "bio": "🍝 Pastafari y curioso impenitente.<br/><br/>Aunque en 23 años de profesión he pasado por diversos roles, sectores y tipos de empresas, actualmente me autodefiniría como “Product engineer/developer”: Lean Software Development y eXtreme Programming (moderno) me han influido muchísimo, me gusta tener una visión lo más amplia posible del “todo”, entender el porqué de las cosas, con cierta “obsesión” por la simplicidad, la maximización del aprendizaje compartido, la entrega de valor continua y sostenible, los ciclos de feedback rápidos y mucha empatía para con todas las personas involucradas 🙏<br/><br/>Y en otro orden de cosas me gusta aporrear mi piano, la filosofía budista, la psicología (científica) y ahora mismo probando el Pilates 😆",
