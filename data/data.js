@@ -72,7 +72,7 @@ module.exports =
             "slug": "esther-borao",
             "company": "Directora general @ ITAINNOVA",
             "image": "/speakers/esther-borao.jpg",
-            "name": "Ester Borao",
+            "name": "Esther Borao",
             "bio": "Esther Borao es ingeniera industrial especializada en automática en robótica. <br/>Su creatividad y pasión por la tecnología, la innovación y la educación la llevaron a ser una de los 30 jóvenes líderes de Europa y África y a ser seleccionada por la Embajada de EE.UU. en España para el programa “Women in Entrepreneurship”, donde convivió durante un mes en EE.UU. con 52 mujeres de distintos países del mundo. <br/>En 2017 pasó de ser científica en El Hormiguero a cofundadora de varias empresas como Innovart, un estudio de arte y tecnología, The Ifs, una familia de robots que enseña a programar a niñas y niños desde los 3 años y Academia de Inventores, una empresa creada en colaboración con la Editorial Edelvives, para enseñar a niñas y niños a inventar. <br/>Y desde septiembre de 2019 dirige el Instituto Tecnológico de Aragón, un centro tecnológico público del Gobierno de Aragón, donde acompañan a empresas en sus procesos y desarrollos de innovación tecnológica.",
             "social": {
                 "twitter": "https://twitter.com/estherborao",
@@ -202,12 +202,12 @@ module.exports =
         },
     ],
     "agenda": {
-        "visible": false,
+        "visible": true,
         "time_slots": ["9:00-9:20", "9:30-10:20", "10:30-11:20", "11:30-12:00", "12:00-12:50", "13:00-13:50", "13:50-14:00"],
         "tracks":[
             {
-                "name": "Sala 0B",
-                "link": "https://www.euskaldunabilbao.com/espacios/sala-0b/",
+                "name": "Sala 0E",
+                "link": "https://www.euskaldunabilbao.com/espacios/sala-0e/",
                 "content_in_slots": [
                     {
                         "type": "text",
@@ -215,11 +215,11 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "adria-fontcuberta"
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "alena-nikolaeva"
                     },
                     {
                         "type": "text",
@@ -227,11 +227,11 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "natalia-venditto"
                     },
                     {
-                        "type": "speaker",
-                        "content": "senyor-lobo"
+                        "type": "speaker_group",
+                        "content": "ujue-agudo+karlos-g-liberal"
                     },
                     {
                         "type": "text",
@@ -249,11 +249,11 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "esther-borao"
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "gabs-garcia"
                     },
                     {
                         "type": "text",
@@ -261,11 +261,11 @@ module.exports =
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "mario-lopez"
                     },
                     {
                         "type": "speaker",
-                        "content": "senyor-lobo"
+                        "content": "isidro-lopez"
                     },
                     {
                         "type": "text",
