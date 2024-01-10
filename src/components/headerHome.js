@@ -47,7 +47,7 @@ const HeaderHome = ({ data }) => {
                 👉 <a href="http://previa-2024.bilbostack.com/" 
                   target="_blank" 
                   rel="noopener noreferrer">
-                     ¡Clicka aquí!
+                     ¡Haz click aquí!
                 </a> 👈
               </p>
             </h5>
